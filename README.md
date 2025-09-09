@@ -1,6 +1,6 @@
 # SIM Image Simulation and Reconstruction in Python
 
-## 📌 Overview
+##  Overview
 This project demonstrates the principles of **Structured Illumination Microscopy (SIM)** using a Python-based simulation pipeline.  
 SIM is an advanced imaging technique that surpasses the diffraction limit by projecting sinusoidal illumination patterns onto a sample, thereby shifting high-frequency details into the observable frequency band of a microscope.
 
@@ -11,7 +11,7 @@ The repository contains:
 
 ---
 
-## 🧪 Workflow
+##  Workflow
 The simulation consists of the following steps:
 
 1. **Ground Truth (GT) Image Generation**  
@@ -37,7 +37,7 @@ The simulation consists of the following steps:
 
 ---
 
-## 🖼️ Results
+## 🖼 Results
 - SIM improves resolution by recovering high-frequency details lost in conventional microscopy.  
 - Fourier domain analysis confirms the presence of **sidebands** caused by sinusoidal illumination.  
 - Reconstruction yields sharper images compared to low-pass blurred ones.  
@@ -54,7 +54,7 @@ The simulation consists of the following steps:
 
 ---
 
-## ⚙️ Installation & Usage
+## ⚙ Installation & Usage
 Clone the repo and install required Python packages:
 ```bash
 git clone https://github.com/your-username/SIM-Simulation.git
