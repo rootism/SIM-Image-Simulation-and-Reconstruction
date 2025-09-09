@@ -37,7 +37,7 @@ The simulation consists of the following steps:
 
 ---
 
-## 🖼 Results
+##  Results
 - SIM improves resolution by recovering high-frequency details lost in conventional microscopy.  
 - Fourier domain analysis confirms the presence of **sidebands** caused by sinusoidal illumination.  
 - Reconstruction yields sharper images compared to low-pass blurred ones.  
