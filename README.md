@@ -54,7 +54,7 @@ The simulation consists of the following steps:
 
 ---
 
-## ⚙ Installation & Usage
+##  Installation & Usage
 Clone the repo and install required Python packages:
 ```bash
 git clone https://github.com/your-username/SIM-Simulation.git
